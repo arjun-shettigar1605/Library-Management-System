@@ -32,3 +32,5 @@ The system is designed to streamline library management processes, improving pro
 ![Screenshot 2024-09-07 001449](https://github.com/user-attachments/assets/e8607c4d-7629-4a8a-973e-7a61dafe22f5)
 **Edit Admin Credentials**
 ![Screenshot 2024-09-07 001514](https://github.com/user-attachments/assets/03babcf9-079f-4751-9abc-c843b82d40d2)
+**MySQL Database**
+![Screenshot 2024-09-07 184527](https://github.com/user-attachments/assets/6bb99bae-02ec-470e-aad8-6b020eecec69)
